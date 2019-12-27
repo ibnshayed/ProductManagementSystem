@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7c5ca2a1-0c76-4b6f-b1eb-6a93893c6686" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ibnshayed/www/service/ProductService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ibnshayed/www/service/ProductService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/www.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ibnshayed/www/service/ProductService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ibnshayed/www/service/ProductService.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,11 +20,12 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -33,12 +38,14 @@
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1VKFnW3XxEMm4cZQ6qE9XYqxErE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RequestMappingsPanelOrder0" value="0" />
     <property name="RequestMappingsPanelOrder1" value="1" />
     <property name="RequestMappingsPanelWidth0" value="75" />
@@ -53,10 +60,10 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.annotationProcessors" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="instant.run" />
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
@@ -99,6 +106,8 @@
       <workItem from="1577251734300" duration="4810000" />
       <workItem from="1577278109130" duration="6169000" />
       <workItem from="1577370585556" duration="2269000" />
+      <workItem from="1577458449297" duration="273000" />
+      <workItem from="1577458769524" duration="1775000" />
     </task>
     <servers />
   </component>
@@ -115,42 +124,42 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="690" y="237" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1577374019039" />
-    <state width="1865" height="359" key="GridCell.Tab.0.bottom" timestamp="1577286276530">
+    <state width="1865" height="205" key="GridCell.Tab.0.bottom" timestamp="1577461178652">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1865" height="359" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1577286276530" />
-    <state width="1865" height="359" key="GridCell.Tab.0.center" timestamp="1577286276530">
+    <state width="1865" height="205" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1577461178652" />
+    <state width="1865" height="205" key="GridCell.Tab.0.center" timestamp="1577461178652">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1865" height="359" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1577286276530" />
-    <state width="1865" height="359" key="GridCell.Tab.0.left" timestamp="1577286276530">
+    <state width="1865" height="205" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1577461178652" />
+    <state width="1865" height="205" key="GridCell.Tab.0.left" timestamp="1577461178652">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1865" height="359" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1577286276530" />
-    <state width="1865" height="359" key="GridCell.Tab.0.right" timestamp="1577286276530">
+    <state width="1865" height="205" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1577461178652" />
+    <state width="1865" height="205" key="GridCell.Tab.0.right" timestamp="1577461178652">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1865" height="359" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1577286276530" />
-    <state width="1865" height="359" key="GridCell.Tab.1.bottom" timestamp="1577286276531">
+    <state width="1865" height="205" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1577461178652" />
+    <state width="1865" height="205" key="GridCell.Tab.1.bottom" timestamp="1577461178652">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1865" height="359" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1577286276531" />
-    <state width="1865" height="359" key="GridCell.Tab.1.center" timestamp="1577286276530">
+    <state width="1865" height="205" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1577461178652" />
+    <state width="1865" height="205" key="GridCell.Tab.1.center" timestamp="1577461178652">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1865" height="359" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1577286276530" />
-    <state width="1865" height="359" key="GridCell.Tab.1.left" timestamp="1577286276530">
+    <state width="1865" height="205" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1577461178652" />
+    <state width="1865" height="205" key="GridCell.Tab.1.left" timestamp="1577461178652">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1865" height="359" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1577286276530" />
-    <state width="1865" height="359" key="GridCell.Tab.1.right" timestamp="1577286276530">
+    <state width="1865" height="205" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1577461178652" />
+    <state width="1865" height="205" key="GridCell.Tab.1.right" timestamp="1577461178652">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1865" height="359" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1577286276530" />
-    <state x="312" y="10" key="SettingsEditor" timestamp="1577283019044">
+    <state width="1865" height="205" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1577461178652" />
+    <state x="312" y="10" key="SettingsEditor" timestamp="1577459337561">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="312" y="10" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1577283019044" />
+    <state x="312" y="10" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1577459337561" />
     <state x="230" y="210" width="1459" height="704" key="new project wizard" timestamp="1577374038446">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
