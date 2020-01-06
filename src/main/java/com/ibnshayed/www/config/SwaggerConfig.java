@@ -18,7 +18,7 @@ public class SwaggerConfig {
         return new Docket(DocumentationType.SWAGGER_2)
                 .apiInfo(new ApiInfoBuilder()
                         .description("Developed By - Emran Ibn Shayed")
-                        .title("Proudct Maagement System")
+                        .title("EIS - Proudct Management System")
                         .version("1.0.0")
                         .build())
                 .select()
